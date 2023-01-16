@@ -11,4 +11,3 @@ setup(
     description="This program scans through a Zotero library and checks each URL for Hypothesis annotations. If annotations are found it imports them into the Zotero library as note objects with their associated tags.",
     license="MIT",
     url="https://github.com/JD-P/hypothesis-zotero")
-    
